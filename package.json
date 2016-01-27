@@ -1,0 +1,10 @@
+{
+  "name": "ILUMYsample",
+  "version": "1.0.0",
+  "description": "Code sample",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^1.5.0",
+    "nodemailer": "^1.10.0"
+  }
+}
